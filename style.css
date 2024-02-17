@@ -1,0 +1,18 @@
+.header{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.h-a{
+  width: 20%;
+}
+.h-b{
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+a{
+  text-decoration: none;
+}
